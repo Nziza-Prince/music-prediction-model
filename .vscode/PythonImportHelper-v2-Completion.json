@@ -1,0 +1,38 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "array",
+        "kind": 5,
+        "importPath": "numpyUsage",
+        "description": "numpyUsage",
+        "peekOfCode": "array = np.zeros((3,4), dtype=int)\narray1 = np.ones((3,4), dtype=int)\narray2 = np.full((3,4),5, dtype=int)\nprint(array2)",
+        "detail": "numpyUsage",
+        "documentation": {}
+    },
+    {
+        "label": "array1",
+        "kind": 5,
+        "importPath": "numpyUsage",
+        "description": "numpyUsage",
+        "peekOfCode": "array1 = np.ones((3,4), dtype=int)\narray2 = np.full((3,4),5, dtype=int)\nprint(array2)",
+        "detail": "numpyUsage",
+        "documentation": {}
+    },
+    {
+        "label": "array2",
+        "kind": 5,
+        "importPath": "numpyUsage",
+        "description": "numpyUsage",
+        "peekOfCode": "array2 = np.full((3,4),5, dtype=int)\nprint(array2)",
+        "detail": "numpyUsage",
+        "documentation": {}
+    }
+]
